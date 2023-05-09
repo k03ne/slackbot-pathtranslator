@@ -13,7 +13,9 @@ The Slackbot takes no matter if /Volumes/DriveName/ORNDER/ORNDER/FILE, P:\ORDNER
 If you need help or have made a mistake, the Slackbot also reacts in a sometimes very funny way. The messages are always related to a space theme, which is lived in our agency.
 
 Help:
+
 ![slackbot_example_help](https://user-images.githubusercontent.com/52171435/237047833-71003701-e9fe-4430-b1f4-ba5f976e525a.jpg)
 
 Wrong Link:
+
 ![slackbot_example_error](https://user-images.githubusercontent.com/52171435/237046645-5a402e61-2d5d-4659-9476-1be0d50c1d1f.jpg)
